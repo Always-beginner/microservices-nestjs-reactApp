@@ -107,6 +107,7 @@ const AddModal = (props: ModelProps) => {
   };
   return (
     <div>
+      <h1>this is change from main</h1>
       <Modal open={props.open} onClose={props.onClose}>
         <Box sx={style}>
           <Typography id="modal-modal-title" variant="h5" component="h1">

@@ -8,6 +8,7 @@ const Home = () => {
       <div>
         <DataTable></DataTable>
       </div>
+      <h1>this is change from main</h1>
     </div>
   );
 };
