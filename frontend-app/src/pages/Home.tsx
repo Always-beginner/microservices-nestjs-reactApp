@@ -6,6 +6,7 @@ const Home = () => {
     <div>
       <Navbar></Navbar>
       <div>
+        <h1>this is change to check fetch</h1>
         <DataTable></DataTable>
       </div>
       <h1>
