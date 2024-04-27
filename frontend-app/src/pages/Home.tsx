@@ -8,6 +8,9 @@ const Home = () => {
       <div>
         <DataTable></DataTable>
       </div>
+      <h1>
+        this is change in nick branch
+      </h1>
     </div>
   );
 };
